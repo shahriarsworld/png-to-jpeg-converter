@@ -13,7 +13,6 @@ A Python application with both GUI and command-line interfaces for batch convert
 - **Error Handling**: Comprehensive error reporting and recovery
 - **Cross-Platform**: Works on Windows, macOS, and Linux
 
-## Screenshots
 
 ### GUI Interface
 The user-friendly graphical interface makes batch conversion simple:
