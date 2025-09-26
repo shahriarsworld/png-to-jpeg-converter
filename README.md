@@ -15,6 +15,9 @@ A Python application with both GUI and command-line interfaces for batch convert
 
 ### Screenshots
 ![BatchPNGtoGPG Screenshot](./ss1.png)
+
+![BatchPNGtoGPG Screenshot](./ss2.png)
+
 ### GUI Interface
 The user-friendly graphical interface makes batch conversion simple:
 - Browse and select input/output directories
